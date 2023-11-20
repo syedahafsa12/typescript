@@ -1,1 +1,1 @@
-# Typescript
+# Typescript Class practices & projects
